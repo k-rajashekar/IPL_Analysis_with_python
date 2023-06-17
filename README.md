@@ -17,9 +17,10 @@ The code performs various tasks to gain insights into team performances, player 
 
 ## Usage
 1. Ensure that the required libraries are installed (`pip install pandas plotly`).
-2. Modify the file path in the code to point to your IPL 2022 dataset: `data = pd.read_csv("path/to/your/dataset.csv")`.
-3. Run the code: use Jupyter notebook to run your code.
-4. The code will generate various visualizations and display them.
+2. Make sure to download the dataset : 'Book_ipl22_ver_33.csv' and save it at your required location
+3. Modify the file path in the code to point to your IPL 2022 dataset: `data = pd.read_csv("path/to/your/dataset.csv")`.
+4. Run the code: use Jupyter notebook to run your code.
+5. The code will generate various visualizations and display them.
 
 ## Code Explanation
 - The code reads the IPL 2022 data from a CSV file using Pandas.
