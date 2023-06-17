@@ -12,8 +12,8 @@ The code performs various tasks to gain insights into team performances, player 
 - Jupyter Notebook
 
 ## Installation
-1. Clone this repository: `git clone https://github.com/k-rajashekar/IPL_Analysis_with_python.git`
-2. Navigate to the project directory: `cd IPL_Analysis_with_python`
+1. Use 'pip install jupyter notebbok' to install jupyter notebook in your system and use 'jupyter notebook' command in your cmd prompt
+2. Download the required Dataset and source code in your system.
 
 ## Usage
 1. Ensure that the required libraries are installed (`pip install pandas plotly`).
